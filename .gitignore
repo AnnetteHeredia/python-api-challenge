@@ -1,10 +1,18 @@
+
+```python
+# Adding config.py file.
+api_keys.py
+config.py
+#files to ignore 
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-#api Keys
-config.py
+
 # C extensions
 *.so
 
@@ -129,7 +137,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-#files to ignore 
-API_practice.ipynb
-random_numbers.ipynb
-api_keys.py
